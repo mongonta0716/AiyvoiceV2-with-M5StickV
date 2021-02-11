@@ -33,6 +33,7 @@ M5StickVのGrove互換ポート（HY-2.0-4P）を拡張するために利用し�
 
 詳しくは下記のリンクを参照してください。
 
+[Google AIY VoiceKit V2とM5StickVを連携させてスマートスピーカーを作る | elchika](https://elchika.com/article/8a442b44-86fd-4ca0-9e0c-128b481a4c7a/)
 # 参考にしたソース
 Sipeed社のMaix_Scriptsにある[isolated_word.py](https://github.com/sipeed/MaixPy_scripts/blob/master/multimedia/speech_recognizer/isolated_word.py)を参考に作成しました。
 Google社の[aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian)の[assistant_grpc_demo.py](https://github.com/google/aiyprojects-raspbian/tree/aiyprojects/src/examples/voice)を参考に作成しました。
